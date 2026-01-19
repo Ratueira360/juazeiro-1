@@ -1,0 +1,12 @@
+body{
+    background-color: deeppink;
+}
+h1{
+    color: aquamarine;
+}
+p{
+    color: aliceblue;
+}
+p strong{
+    color: black;
+}
