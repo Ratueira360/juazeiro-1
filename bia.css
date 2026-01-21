@@ -1,20 +1,38 @@
 body{
+    /*COR DE FUNDO*/
     background-color: rgb(241, 237, 239);
 }
 h1{
+    /*SUBTITULO*/
     text-align: center;
     color: black;
 }
 h2{
+     /*2SUBTITULO*/
     text-align: center;
     color: rgb(255, 251, 4);
 }
 p{
+     /*LETRAS*/
     text-align: center;
     color: rgb(17, 17, 17);
     font-size: 20px;
     font-family:  Arial, Helvetica, sans-serif ;
 }
 p strong{
+     /*LETRAS EM NEGRITO*/
     color: #00ff00;
+}
+/*LOGO*/
+#logo{
+    width: 200px; ;
+}
+/*banner*/
+#banner-principal{
+    width: 100%;
+}
+.banner{
+    width: 250px;
+    height: 250px;
+    border-radius: 40%;
 }
